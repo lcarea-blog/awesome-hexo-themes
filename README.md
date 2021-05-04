@@ -16,12 +16,12 @@
 |[theme-next/hexo-theme-next](https://www.github.com/theme-next/hexo-theme-next)|Elegant and powerful theme for Hexo.|6.3k|
 |[ppoffice/hexo-theme-icarus](https://www.github.com/ppoffice/hexo-theme-icarus)|A simple, delicate, and modern theme for the static site generator Hexo.|4.3k|
 |[viosey/hexo-theme-material](https://www.github.com/viosey/hexo-theme-material)|Material Design theme for hexo.|3.9k|
-|[blinkfox/hexo-theme-matery](https://www.github.com/blinkfox/hexo-theme-matery)|A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com/|2.9k|
+|[blinkfox/hexo-theme-matery](https://www.github.com/blinkfox/hexo-theme-matery)|------推荐-------A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com/|2.9k|
 |[yscoder/hexo-theme-indigo](https://www.github.com/yscoder/hexo-theme-indigo)|一个Material Design风格的Hexo主题。 https://imys.net/|2.7k|
 |[fluid-dev/hexo-theme-fluid](https://www.github.com/fluid-dev/hexo-theme-fluid)|------推荐-------🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo|2.1k|
 |[probberechts/hexo-theme-cactus](https://www.github.com/probberechts/hexo-theme-cactus)|🌵 A responsive, clean and simple theme for Hexo.|1.8k|
 |[pinggod/hexo-theme-apollo](https://www.github.com/pinggod/hexo-theme-apollo)|🌅 a concise hexo theme|1.8k|
-|[jerryc127/hexo-theme-butterfly](https://www.github.com/jerryc127/hexo-theme-butterfly)|🦋 A Hexo Theme: Butterfly|1.8k|
+|[jerryc127/hexo-theme-butterfly](https://www.github.com/jerryc127/hexo-theme-butterfly)|------推荐，正在使用-------🦋 A Hexo Theme: Butterfly|1.8k|
 |[LouisBarranqueiro/hexo-theme-tranquilpeak](https://www.github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)|💄 A gorgeous responsive theme for Hexo blog framework|1.7k|
 |[Molunerfinn/hexo-theme-melody](https://www.github.com/Molunerfinn/hexo-theme-melody)|🎹A simple & beautiful & fast theme for Hexo.|1.3k|
 |[ahonn/hexo-theme-even](https://www.github.com/ahonn/hexo-theme-even)|🚀 A super concise theme for Hexo|1.2k|
